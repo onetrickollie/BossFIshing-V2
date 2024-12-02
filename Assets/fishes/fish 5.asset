@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f43444a5cc5f84bb58f8f7c406b83928, type: 3}
+  m_Name: fish 5
+  m_EditorClassIdentifier: 
+  fishName: smolfin(25g)
+  fishSprite: {fileID: 1014716930, guid: 3598f4774fda74cc6bf767a67b220cc9, type: 3}
+  fishDescription: "With its warm orange and golden scales, Smolfin is the tiniest
+    and sleepiest fish around! It drifts through the water with gentle, wobbly wiggles,
+    moving just a little at a time, as if it\u2019s always on the verge of a nap."
+  price: 25

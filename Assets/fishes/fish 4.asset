@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f43444a5cc5f84bb58f8f7c406b83928, type: 3}
+  m_Name: fish 4
+  m_EditorClassIdentifier: 
+  fishName: Chub-E-Fin(30g)
+  fishSprite: {fileID: -1969396451, guid: 3598f4774fda74cc6bf767a67b220cc9, type: 3}
+  fishDescription: This adorable little fish with soft blue-gray scales is as playful
+    as they come! Known for its boundless energy, Chuckfin never seems to sit still,
+    darting around like it's playing a game only it knows. Catching Chuckfin feels
+    like finding a little burst of happiness in the water!
+  price: 30

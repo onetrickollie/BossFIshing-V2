@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f43444a5cc5f84bb58f8f7c406b83928, type: 3}
+  m_Name: fish 3
+  m_EditorClassIdentifier: 
+  fishName: koi(35g)
+  fishSprite: {fileID: 1411246180, guid: 3598f4774fda74cc6bf767a67b220cc9, type: 3}
+  fishDescription: the small but fierce shark with a sleek blue-silver sheen that
+    glides through the water like a streak of lightning. He might show his teeth
+    if necessary, but deep down, Koifish are playful, full of energy, and but also
+    laid-back and always ready to curl up for a nap when the moment strikes.
+  price: 35
